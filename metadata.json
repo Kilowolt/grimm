@@ -1,0 +1,6 @@
+{
+  "name": "Ca Trù – Giai Điệu Di Sản",
+  "description": "Khám phá nghệ thuật Ca trù qua trò chơi câu hỏi tương tác, phong cách pastel ấm và văn hóa truyền thống Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

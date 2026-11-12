@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FFF7ED;
+    color: #514438;
+    font-family: 'Be Vietnam Pro', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', Georgia, Cambria, serif;
+  }
+}
+
+/* Custom scrollbars with warm pastel tone */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FFF7ED;
+}
+::-webkit-scrollbar-thumb {
+  background: #E9BFA5;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #D99A72;
+}
